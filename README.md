@@ -31,6 +31,7 @@ resum&eacute; more informative.
 
 ### Labels added to config.toml
 
+```
 computer_skill_levels_labels = [
   'Beginner = (< 1 yr)',
   'Intermediate = (1-2 yrs)',
@@ -51,9 +52,9 @@ computer_skill_levels = [
   'Intermediate',
   'Advanced'
 ]
-
+```
 ### New fields in about.md
-
+```
 [interests]
   interests = []
 
@@ -79,3 +80,4 @@ computer_skill_levels = [
 [[accountabilities]]
   concept = ""
   examples = [Include as many paragraphs as bullet points as required]
+```
